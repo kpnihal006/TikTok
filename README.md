@@ -46,7 +46,7 @@ The results of the models are shown in the jupyter notebook, a brief overview of
 | ------------- | --------- | -------- | ---------- | --------- |
 |     opinion   |    0.99   |   1.00   |    0.99    |   1892    |
 |      claim    |    1.00   |   0.99   |    0.99    |   1925    |
-|    accuracy   |                      |    0.99    |   3817    |
+|    accuracy   |           |          |    0.99    |   3817    |
 |   macro avg   |    0.99   |   0.99   |    0.99    |   3817    |
 | weighted avg  |    0.99   |   0.99   |    0.99    |   3817    |
 
@@ -56,7 +56,7 @@ The results of the models are shown in the jupyter notebook, a brief overview of
 | ------------- | --------- | -------- | ---------- | --------- |
 |     opinion   |    1.00   |   1.00   |    1.00    |   1892    |
 |      claim    |    1.00   |   1.00   |    1.00    |   1925    |
-|    accuracy   |                      |    1.00    |   3817    |
+|    accuracy   |           |          |    1.00    |   3817    |
 |   macro avg   |    1.00   |   1.00   |    1.00    |   3817    |
 | weighted avg  |    1.00   |   1.00   |    1.00    |   3817    |
 
