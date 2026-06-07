@@ -1,10 +1,7 @@
 # TikTok
-Data analysis of TikTok project (part of Google Advanced Data Analytics Certification)
-This project is completed as a part of the Google Advanced Data Analytics Capstone Project.
-It utilizes data analytics concepts and techniques covered in the professional certification course.
+Video claims classification using NLP and ensemble learning — XGBoost achieving 99% accuracy (precision 1.00, recall 0.99) on engagement and metadata features. EDA across full data lifecycle with Tableau visualisations and executive summary.
 
 ## Overview
-TikTok is a fictitious company created for educational purposes only and any reference is coincidental.
 TikTok is a social media company where users upload videos for others to view, like and share. The company is
 facing an issue with the large number of claim reports over videos by users. They would like to determine if a video
 is a claim or an opinion. The TikTok data teamhave provided us with the dataset having the information of the videos and the reports.
